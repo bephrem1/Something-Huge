@@ -29,5 +29,5 @@ This could be a web app, a bot, a whole software suite spanning web and mobile,.
 </br>
 </br>
 <b>General Ideas:</b> </br>
-- A medium-enterprise level REST API that delivers valuable data like https://coinapi.com </br>
+- A medium-enterprise level REST API that delivers valuable data like https://coinapi.io </br>
 </br>
