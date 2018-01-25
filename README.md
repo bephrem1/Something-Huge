@@ -1,5 +1,9 @@
 # Something-Huge
+__________________________________________
 This will be a huge project that will deliver business value someday. </br>
+**School Year:** Freshman @ University of Maryland (class of 2021) </br>
+**Note:** I will update this repo when an idea hits me and planning begins
+__________________________________________
 
 I've been programming for a while I think that it's time do a HUGE project myself (or with a team I build along the way). </br></br>
 <b>My motivation for projects until now has been sort of like this:</b> </br>
