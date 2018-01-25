@@ -8,7 +8,7 @@ __________________________________________
 I've been programming for a while I think that it's time do a HUGE project myself (or with a team I build along the way). </br></br>
 <b>My motivation for projects until now has been sort of like this:</b> </br>
 #1) I make a project just for the heck of seeing if I can make it or not (For Example My Project I Did In 3 Weeks [OutfitHash](https://github.com/bephrem1/OutfitHash-Public)) Then I Think..."Where From Here"</br>
-#2) I want to see how many differnt tools I can use in a project to be exposed to more stacks and development workflows</br>
+#2) I want to see how many different tools I can use in a project to be exposed to more stacks and development workflows</br>
 #3) I want to make something "Impressive" or "Creative" and force what should be an organic process of letting ideas take shape </br>
 </br>
 <b>I have an intuition for what my next self-started project should be...something HUGE:</b>
