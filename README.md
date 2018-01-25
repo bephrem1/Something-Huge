@@ -27,5 +27,7 @@ I see this project as being my official time of leaving the programming sandbox 
 </br>
 This could be a web app, a bot, a whole software suite spanning web and mobile,...it's just got to be big and I subliminally feel it is going to happen. That's why I made this repo to keep this at the top of my mind. Coming Soon.
 </br>
+</br>
 <b>General Ideas:</b> </br>
-- A medium-enterprise level REST API that delivers valuable data like [CoinAPI](https://coinapi.io)
+- A medium-enterprise level REST API that delivers valuable data like https://coinapi.com </br>
+</br>
