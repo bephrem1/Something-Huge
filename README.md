@@ -25,4 +25,7 @@ I've been programming for a while I think that it's time do a HUGE project mysel
 <b>The Bigger Picture:</b> </br>
 I see this project as being my official time of leaving the programming sandbox I've been in for years and entering the realm of real problem solving (database to business logic to UX) and true engineering of scalable solutions. </br>
 </br>
-This could be a web app, a bot, a whole software suite spanning web and mobile,...it's just got to be big and I subliminally feel it is going to happen. That's why I made this repo to keep this at the top of my mind. Coming Soon. </br>
+This could be a web app, a bot, a whole software suite spanning web and mobile,...it's just got to be big and I subliminally feel it is going to happen. That's why I made this repo to keep this at the top of my mind. Coming Soon.
+</br>
+<b>General Ideas:</b> </br>
+- A medium-enterprise level API that delivers valuable data like [CoinApi.io](https://www.coinapi.io/)
