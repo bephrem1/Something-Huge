@@ -1,11 +1,11 @@
 # Something-Huge
 __________________________________________
-This will be a huge project that will deliver business value someday. </br>
+This will be a huge project that will deliver business value somehow. </br>
 **School Year:** Freshman @ University of Maryland (class of 2021) </br>
 **Note:** I will update this repo when an idea hits me and planning begins
 __________________________________________
 
-I've been programming for a while I think that it's time do a HUGE project myself (or with a team I build along the way). </br></br>
+I've been programming for a while I think that it's time do a HUGE project with a team built along the way. </br></br>
 <b>My motivation for projects until now has been sort of like this:</b> </br>
 #1) I make a project just for the heck of seeing if I can make it or not (For Example My Project I Did In 3 Weeks [OutfitHash](https://github.com/bephrem1/OutfitHash-Public)) Then I Think..."Where From Here"</br>
 #2) I want to see how many different tools I can use in a project to be exposed to more stacks and development workflows</br>
@@ -28,6 +28,6 @@ I see this project as being my official time of leaving the programming sandbox 
 This could be a web app, a bot, a whole software suite spanning web and mobile,...it's just got to be big and I subliminally feel it is going to happen. That's why I made this repo to keep this at the top of my mind. Coming Soon.
 </br>
 </br>
-<b>General Ideas:</b> </br>
-- A medium-enterprise level REST API that delivers valuable data like https://coinapi.io </br>
+<b>General Initial Ideas:</b> </br>
+- A medium-enterprise level REST API that delivers valuable data like https://coinapi.io and distributes licenses to paying clients </br>
 </br>
