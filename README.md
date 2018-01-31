@@ -11,7 +11,7 @@ I've been programming for a while I think that it's time do a HUGE project with 
 #2) I want to see how many different tools I can use in a project to be exposed to more stacks and development workflows</br>
 #3) I want to make something "Impressive" or "Creative" and force what should be an organic process of letting ideas take shape </br>
 </br>
-<b>I have an intuition for what my next self-started project should be...something HUGE:</b>
+<b>I have an intuition for what my next self-started project should be...something bigger:</b>
 - Something someone sees and says..."That's awesome, I want to use that." and they do and keep coming back </br>
 - Something that delivers business value and takes months of intense development </br>
 - Something that requires real engineering and problem solving rather than being simple programming using others abstractions </br>
